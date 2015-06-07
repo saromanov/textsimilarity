@@ -1,0 +1,22 @@
+{
+  "name": "textsimilarity",
+  "version": "0.0.1",
+  "description": "Simple text similarity module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "text",
+    "similarity",
+    "cosine"
+  ],
+  "author": "Sergey Romanov",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^1.7.0"
+  },
+  "devDependencies":{
+    "mocha": "*"
+  }
+}
