@@ -1,11 +1,7 @@
 var math = require('mathjs');
 
 module.exports = function(text1, text2){
-	if(text1.length == 0) {
-		return 0;
-	}
-
-	if(text2.length == 0) {
+	if(!(text1.length && text2.length)) {
 		return 0;
 	}
 	text1 += ' ';

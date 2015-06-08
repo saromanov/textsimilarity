@@ -2,6 +2,7 @@
   "name": "textsimilarity",
   "version": "0.0.1",
   "description": "Simple text similarity module",
+  "repository" : "saromanov/textsimilarity",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
