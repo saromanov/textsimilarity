@@ -1,7 +1,7 @@
 # textsimilarity
 
 ## Install
-
+``` npm install -g textsimilarity```
 ## Usage
 
 ```javascript
