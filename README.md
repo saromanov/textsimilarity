@@ -1,4 +1,4 @@
-# textsimilarity
+# textsimilarity [![Build Status](https://travis-ci.org/saromanov/textsimilarity.svg?branch=master)](https://travis-ci.org/saromanov/textsimilarity)
 
 ## Install
 ``` npm install -g textsimilarity```
